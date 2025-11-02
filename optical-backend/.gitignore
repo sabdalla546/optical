@@ -1,0 +1,19 @@
+# Node modules
+node_modules/
+
+/uploads
+# Environment variables
+.env
+
+# Optional: if you use PM2
+.pids/
+*.pid
+*.seed
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
